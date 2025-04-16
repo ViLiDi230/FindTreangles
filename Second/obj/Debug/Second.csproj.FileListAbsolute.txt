@@ -1,0 +1,14 @@
+E:\УиАБД\second\Second\Second\obj\Debug\Second.csprojAssemblyReference.cache
+E:\УиАБД\second\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+E:\УиАБД\second\Second\Second\bin\Debug\Second.exe.config
+E:\УиАБД\second\Second\Second\bin\Debug\Second.exe
+E:\УиАБД\second\Second\Second\bin\Debug\Second.pdb
+E:\УиАБД\second\Second\Second\obj\Debug\Second.exe
+E:\УиАБД\second\Second\Second\obj\Debug\Second.pdb
+F:\УиАБД\second\Second\Second\bin\Debug\Second.exe.config
+F:\УиАБД\second\Second\Second\bin\Debug\Second.exe
+F:\УиАБД\second\Second\Second\bin\Debug\Second.pdb
+F:\УиАБД\second\Second\Second\obj\Debug\Second.csproj.AssemblyReference.cache
+F:\УиАБД\second\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+F:\УиАБД\second\Second\Second\obj\Debug\Second.exe
+F:\УиАБД\second\Second\Second\obj\Debug\Second.pdb
